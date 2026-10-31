@@ -1,0 +1,296 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Inter, Arial, sans-serif;
+    background-color: #F5F7FA;
+}
+
+nav {
+    
+    width: 100%;
+    padding: 14px 0;
+}
+
+.container {
+    max-width: 1250px;
+    margin:0 auto;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav .logo {
+    width: 25%;
+}
+
+nav .logo img {
+    width: 150px;
+    display: block;
+    justify-content: flex-start;
+}
+
+nav .Menu {
+    width: 65%;
+}
+
+nav .Menu ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    list-style: none;
+}
+
+nav .Menu a {
+    text-decoration: none;
+    color: #263238;
+    font-size: 14px;
+}
+
+nav .buttons {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 20px;
+    text-align: right;
+}
+
+nav .ghost {
+    background: transparent;
+    color: #4CAF4F;
+    border: none;
+    cursor: pointer;
+}
+
+.btn2 {
+    background-color: #4CAF4F;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 14px;
+    cursor: pointer;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+
+span{
+   color:#4CAF4F ;
+}
+
+
+.heading{
+    width: 50%;
+    margin: 40px;
+    margin-top:auto;
+}
+
+
+.heading h1{
+       font-size: 50px;
+}
+
+
+
+.ILLUSTRATION{
+    width: 30%;
+    margin: 30px 0px 30px 104px;
+    
+}
+
+.btn{
+    background-color: #4CAF4F;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 10px;
+    width: 100px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.heading p{
+    font-size: 15px;
+}
+
+.heading1{
+     margin:30px 0px 30px 0px;
+     text-align: center;
+     
+}
+
+
+
+
+footer{
+    background-color: #263238;
+    height: 229.21px;
+}
+
+
+
+.copyright p{
+    color: azure;
+    size: 8px;
+}
+
+
+
+.company {
+    color: #FFFFFF;
+    size:8px
+}
+
+
+
+
+.support{
+    color: #FFFFFF;
+    
+
+}
+
+.date{
+    color: #FFFFFF;
+    
+}
+
+
+
+
+.company a{
+    color: #FFFFFF;
+    size:8px
+}
+
+
+ul{
+    list-style: none;
+}
+
+
+
+.support a{
+     color: #FFFFFF;
+    size:8px
+
+}
+
+.date a{
+    color: #FFFFFF;
+    size:6px
+}
+
+
+
+input{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+
+.demo{
+    text-align: center;
+    height: 190px;
+    margin-top: 30px;
+}
+
+
+button{
+    background-color: #4CAF4F;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 14px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+
+#client{
+    height: 150px;
+}
+
+
+
+
+
+.process{
+    color: gray;
+    text-align: center;
+    height: 170px;
+    margin-top: 35px;
+}
+
+
+
+.process p{
+    font-size: 10px;
+    margin-top: 19px;
+}
+
+
+
+.process h1{
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
